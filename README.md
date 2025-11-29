@@ -33,6 +33,7 @@ sudo service libvirtd restart
 ```
 
 ---
+![My Screenshot]("C:/Users/MYPC/Downloads/ChatGPT Image 29 nov. 2025, 17_04_09")
 
 ## Running Virt Manager
 
